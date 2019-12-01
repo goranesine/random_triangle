@@ -1,4 +1,3 @@
-# zajebancija
 
 A new Flutter application.
 
